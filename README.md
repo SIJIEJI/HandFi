@@ -1,7 +1,8 @@
 # HandFi
 Construct 3D Hand Skeleton with Commercial WiFi.
 
-Codes are coming soon, stay tuned....
+The code can be found at https://github.com/HandFi/HandFi
+I'm sorry I haven't been able to organize things because I was graduating and moving to a new place at that time.
 
 ## Inference with the pretrained model weights
 
